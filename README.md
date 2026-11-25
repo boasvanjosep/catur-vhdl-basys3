@@ -10,7 +10,7 @@ Proyek akhir mata kuliah **Sistem Digital Lanjut** (Kelompok 5, Program Studi Te
 - **Dosen Pengampu:** Nur Hazbiy Shaffan, S.T., M.T.
 - **Target Perangkat:** Digilent Basys 3 (`xc7a35t-1cpg236c`), Vivado 2026.1, VHDL-2008
 - **Komposisi Kode Sumber:** 21 berkas RTL (`4.749` baris), 5 berkas testbench XSim (`738` baris), 1 berkas XDC (`72` baris / 55 pin IOB)
-- **Laporan Akhir Lengkap:** [Laporan_Proyek_Akhir_SDL_Kelompok_5_Final_Rapi.pdf](docs/Laporan_Proyek_Akhir_SDL_Kelompok_5_Final_Rapi.pdf)
+- **Laporan Akhir Lengkap:** [Laporan_Proyek_Akhir_SisdigLan_Kelompok_5.pdf](docs/Laporan_Proyek_Akhir_SisdigLan_Kelompok_5.pdf)
 
 | No | Nama Anggota Kelompok 5 | NIM |
 | :---: | :--- | :--- |
@@ -50,7 +50,7 @@ Proyek akhir mata kuliah **Sistem Digital Lanjut** (Kelompok 5, Program Studi Te
 ├── constraints/
 │   └── basys3_chess_mouse.xdc
 ├── docs/
-│   ├── Laporan_Proyek_Akhir_SDL_Kelompok_5_Final_Rapi.pdf
+│   ├── Laporan_Proyek_Akhir_SisdigLan_Kelompok_5.pdf
 │   └── images/                      # Diagram arsitektur, hasil XSim, Vivado, dan foto demo Basys 3
 ├── rtl/                             # 21 berkas sumber VHDL-2008 (4.749 baris)
 ├── scripts/
