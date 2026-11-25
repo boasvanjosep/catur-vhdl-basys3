@@ -1,0 +1,52 @@
+# Artefak build & proyek Vivado
+*.runs/
+*.cache/
+*.sim/
+*.hw/
+*.gen/
+*.ip_user_files/
+*.srcs/
+.Xil/
+*.xpr
+*.jou
+*.log
+*.str
+*.dmp
+*.pb
+*.wdb
+*.vcd
+*.bit
+*.bin
+*.ltx
+
+# Simulasi XSim & GHDL lokal
+xsim.dir/
+work-obj08.cf
+work-obj93.cf
+*.cf
+*.vcd
+*.ghw
+*.ppm
+xelab*
+xvhdl*
+xsim*
+
+# File sementara OS & editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
+~$*
+
+# Pastikan direktori sumber, skrip, dan dokumentasi selalu dilacak
+!rtl/
+!rtl/*.vhd
+!sim/
+!sim/*.vhd
+!constraints/
+!constraints/*.xdc
+!scripts/
+!scripts/*
+!docs/
+!docs/**
